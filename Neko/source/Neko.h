@@ -23,6 +23,15 @@
 #define NekoLEFT2 IDI_ICON15
 #define NekoLEFTandUP1 IDI_ICON16
 #define NekoLEFTandUP2 IDI_ICON17
+#define NekoSCRATCH1 IDI_ICON18
+#define NekoSCRATCH2 IDI_ICON19
+#define NekoYAWNS IDI_ICON20
+#define NekoSLEEP1 IDI_ICON21
+#define NekoSLEEP2 IDI_ICON22
+#define NekoAwake IDI_ICON23
+#define NekoBreath IDI_ICON24
+#define NekoALMOSTSLEEP IDI_ICON25
+#define NekoAwakeFromSLEEP IDI_ICON26
 
 #define WM_USER_SHELLICON (WM_USER + 1)
 
